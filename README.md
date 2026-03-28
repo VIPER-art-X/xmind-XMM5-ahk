@@ -310,7 +310,7 @@ Only few other tooltip messages aren't shown within the video.
 
 -  The script uses the following keys that modfies the tts depending upon the state of the tts and kind of tts:
 
-   - **F1**, F2, F3, F4, F5, F6, F7, **F7 special**, F10, F11, F12, Page up, Page down and Scroll lock.
+   - **F1**, F2, F3, F4, F5, F6, F7, **F7 special**, F9, F10, F11, F12, Page up, Page down and Scroll lock.
 
 -  First the simple functioning Keys will be explained then the complex one (F1 and F7 special).
 
