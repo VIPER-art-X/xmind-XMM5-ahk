@@ -287,11 +287,9 @@ Before starting make sure that a heading note opening key is F8 and not Ctrl+Shi
 
 ***
 ***
+<pre>
 Once Your done upto to now, you should be able to do and understand just like in the following video:
-
-<video width="800" controls>
-  <source src="assets/xmind-XMM5-ahk.mp4" type="video/mp4">
-</video>
+assets/xmind-XMM5-ahk.mp4</pre>
 
 ***
 ## ◉ Smart tooltip Messages:
@@ -300,9 +298,7 @@ As shown in the video below, each state change, event start/stop/end, and errors
 - Error messages will be shown, for [Mouse Guide (Controller)](#◉-mouse-guide-controller) ONLY, when attempting to do something without fulfilling Prerequisiste conditions.
   - example: pressing xbutton2 when xbutton1 is ON and NO note of a heading is Open, will give an error message.
 
-<video width="800" controls>
-  <source src="assets/tooltips.mp4" type="video/mp4">
-</video>
+<pre>WATCH THE VIDEO AT: assets/tooltips.mp4</pre>
 
 Only few other tooltip messages aren't shown within the video.
 ***
