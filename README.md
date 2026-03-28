@@ -400,18 +400,49 @@ Only few other tooltip messages aren't shown within the video.
 
 
 ## F1 Anouncement System:
-> It is for heading tts **ONLY** and will not act on note text of note tts.
+- It is for heading tts **ONLY** and will not act on note text of note tts.
 
-### <span style="color:red">explaintion pending</span> 
+- It will add a prefex to the Mind map structure before it is being fed to balcon for reading.
 
+- Just press F1, then chose any of the 1 to 6 number keys and then start a headingtts to see the effect of F1 feature.
+
+- pressing 1, 4, 5 twice will switch to a modified feature of the keys that are much better then a single click.
+
+- I recommoned 4 or 5 key single click for understanding the hierachy of a structre without loking at it.
 
 ## F6 
 
-### <span style="color:red">explaintion pending</span> 
+- It has 3 features that you can switch by pressing it again and again.
+- Each of the 3 features are controlled by F4 and F5.
+
+#### mmHeading level filter:
+- It will ONLY work for Heading tts.
+- It is controlled by F4 and F5 as decrement and increment.
+- lvl 1 means read the selected heading only.
+- lvl 2 means read the selected heading along with its sub-heading.
+- lvl 3 will read the selected heading, its sub-headings, and their sub-headings.
+
+- Maximum levels that you can select is 200
+
+#### speedMultiplier:
+- It will ONLY works for note tts.
+- It removes spaces and words and more the higher you go by pressing F5.
+- If Word/line is NOT equal to 0 then speedMultiplier 1.5, 2.0 is negated, 1.5 and 2.0 removes extra spaces between text.
+
+#### Word/Line:
+- It will ONLY work for note tts.
+- 0 means no change.
+- -1 means one word line.
+- -2 means two words per line and so on upto -10 which is 10 words per line.
+- REASON: there is no other way to reduce the speed of balcon below 1 hence you can by placing words per line.
 
 
-## F7 Special
+## F7
 
+- It shows the current status of F6 like what is selected on F6 so i can control that feature using F4 and F5.
+
+
+ ## F7 Special:
+ 
 - when the F6 status is "mmsHeading level filter" then press and hold F7 for 0.3 seconds to open a GUI window.
-
-### <span style="color:red">explaintion pending</span> 
+ 
