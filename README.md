@@ -16,7 +16,8 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
 
 
 ***
-#### This script CODE is made with AI(Artificial Intelligence), the innvotive ideas, testing, debugging ideas, designing ideas, improvements, All condtions/state ideas, prompting and more came from ME (licensor), a sole person.
+#### This script CODE is made with AI(Artificial Intelligence). 
+###The innvotive ideas, testing, debugging ideas, designing ideas, improvements, All condtions/state ideas, prompting and more came from ME (licensor), a sole person.
 
 - Reason: 
   - NO: learn to code ---> create an ahk script---> start learning using this setup.
