@@ -43,8 +43,8 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
 
 2. [Setup](#◉-setup)
    - [TroubleShooting and checking Setup](#troubleshooting-and-checking-setup)
-
-3. [Usage and Working Guide](#◉-usage-and-working-guide)
+3. [Default State of the Script](#default-state-of-the-script)
+4. [Usage and Working Guide](#◉-usage-and-working-guide)
    - [Mouse Guide (Controller)](#◉-mouse-guide-controller)
    - [Smart tooltip Messages](#◉-smart-tooltip-messages) 
    - [Keyboard Guide ](#◉-keyboard-guide)
