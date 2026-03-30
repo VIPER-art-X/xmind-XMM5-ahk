@@ -370,11 +370,11 @@ Only few other tooltip messages aren't shown within the video.
   - It will switch the device and will not switch it back unless you OFF this feature or exit the script or reload the script.
 
 - When it is OFF:
-  - The device will switch and then switch back normally.   
+  - The device will switch when a tts is started and will switch back to original device after the tts is ended or stopped or the script is exited or the script is reloaded.   
 
 ### F10 Duel detection:
 
-- I reccomend keeping it OFF.
+- I recommend keeping it OFF.
 
 - It's Purpose is to prevent you from listening to a note tts of a heading and opening a note of a different heading.
 
