@@ -190,7 +190,7 @@ Basic info about tts(note and heading):
 
 Before starting make sure that a heading note opening key is F8 and not Ctrl+Shift+N within xmind app.
 
-**Each Key press whether it is in mouse or in Keyboard(F keys, page up/down, scrollock) will show a `Colored tooltip message` near the mouse cursor. To create a memeory of colors without looking at the text within each tooltip message.**
+**Each Key press whether it is in mouse or in Keyboard(F keys, page up/down, scrollock) will show a `Colored tooltip message` near the mouse cursor. To create a memory of colors without looking at the text within each tooltip message.**
 
 - Mouse is the Controller.
 - Those some keys of Keyboard are just Prerequisiste setting before starting a tts.
@@ -214,7 +214,7 @@ Before starting make sure that a heading note opening key is F8 and not Ctrl+Shi
  - When pressed again will OFF the shift scroll feature and the scroll wheel revert back to its original feature which is up and down movement across the canvas of xmind app. 
 
  #### ➤ **Middle Mosue button:**
- - Once pressed will activate zoom in/out feature using scroll wheel only **instead of using keyboard** ctrl + scroll wheel.
+ - When pressed will activate zoom in/out feature using scroll wheel only **instead of using keyboard** ctrl + scroll wheel.
 
  - When pressed again will OFF the zoom in/out feature and will revert the scroll wheel back into its original form which is up and down movement across the canvas of xmind app.
 
