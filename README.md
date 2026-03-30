@@ -106,8 +106,6 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
   - **Download nircmd x64(152KB)** from [here](https://www.nirsoft.net/utils/nircmd.html) (Offical website). The file is at the bottom of the webstie. Once Downloaded, Place it within the folder as `F:\XMIND TTS SYSTEM\nircmd\nircmd.exe`
     - Purpose: The script will use nircmd to switch the device, from original to CABLE Input,  when a tts is started.
 
-    - Reason: If you modify the output sound within light host 
-
 
 #### For tidiness, place balcon, nircmd, light, VST plugins within the same "XMIND TTS SYSTEM" folder.
 
