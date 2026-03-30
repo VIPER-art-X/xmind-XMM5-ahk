@@ -93,7 +93,7 @@ This prohibition is absolute and applies regardless of:
 - Building wrapper applications or interfaces that monetize the Licensed Software's functionality
 - Using any portion of the code (including single functions, subroutines, or logic structures) in commercial software
 
-Any Derivative Work must prominently display this license and include the following notice: "This software is a derivative of [Original Project Name], which is licensed under the Non-Commercial Software License. Commercial use is strictly prohibited."
+Any Derivative Work must prominently display this license and include the following notice: "This software is a derivative of xmind-XMM5-ahk, which is licensed under the Non-Commercial Software License. Commercial use is strictly prohibited."
 
 ---
 
