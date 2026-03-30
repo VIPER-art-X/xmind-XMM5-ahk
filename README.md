@@ -55,7 +55,7 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
 ## ◉ Requirements
 1. You need a computer mouse that also has Mouse button 4(xbutton1) and Mouse button 5(xbutton2).
 
-2. You also need balcon(from balabolka), nircmd, VBCABLE(Specifically "CABLE Input & Output"), lighthost with plugins and Autohotkey 1.1.37 version.
+2. You also need balcon(from balabolka), nircmd, VBCABLE(Specifically "CABLE Input & Output"), lighthost with plugins and Autohotkey 1.1.37 version(the ahk isn't needed if you are gonna use the .exe version of it).
 
 3. The heading tts needs tab indentations to work properly. 
 
