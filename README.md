@@ -118,7 +118,7 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
 - In lighthost the "CABLE Output" recieves sound through "CABLE Input" in sound settings of windows
 - since the output the device goes through lighthost + VST plugins, it will be modified before reaching the final Output device which should be your Default(Headphones) device then your ears.
 - Once a tts is stopped by methods(explained below), reloading the script or exiting the script:
-- Then the device will switch back to original from "CABLE Input".
+ - Then the device will switch back to original from "CABLE Input".
 
 If you dont modify the output sound, you will get bored of the default balcon sound.
 ***
@@ -139,7 +139,7 @@ If you dont modify the output sound, you will get bored of the default balcon so
 ***
 ## Default State of the Script
 
-**It means the state of every fucntion key and feature when you run the script for the first time or re-run it or reload it or exit it and re-lauch it.** 
+**It means the state of every function key and feature when you run the script for the first time or re-run it or reload it or exit it and re-launch it.** 
 
 So when you run the script:
  - xbutton1: OFF
@@ -213,7 +213,7 @@ Before starting make sure that a heading note opening key is F8 and not Ctrl+Shi
 
  - When pressed again will OFF the shift scroll feature and the scroll wheel revert back to its original feature which is up and down movement across the canvas of xmind app. 
 
- #### ➤ **Middle Mosue button:**
+ #### ➤ **Middle Mouse button:**
  - When pressed will activate zoom in/out feature using scroll wheel only **instead of using keyboard** ctrl + scroll wheel.
 
  - When pressed again will OFF the zoom in/out feature and will revert the scroll wheel back into its original form which is up and down movement across the canvas of xmind app.
