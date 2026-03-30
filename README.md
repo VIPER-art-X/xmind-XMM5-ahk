@@ -90,7 +90,7 @@ It is recommend to test the script yourself by opening an .xmind file like in ex
 
 *The following two files(balcon and nircmd) are connected with the script meaning the file paths are mentioned within the script in Section: 1, hence do not change it in any way unless you are going to modify the paths within the script yourself.*
 * Create a Folder named `XMIND TTS SYSTEM` within F: disk and place the following files in it:
-  - **Download balcon(832KB)** from [here](https://www.cross-plus-a.com/bconsole.htm) (Offical website: balabolka). Place it within the folder as `F:\XMIND TTS SYSTEM\balcon\balcon.exe`
+  - **Download balcon(823KB)** from [here](https://www.cross-plus-a.com/bconsole.htm) (Offical website: balabolka). Place it within the folder as `F:\XMIND TTS SYSTEM\balcon\balcon.exe`
     - Purpose: balcon will use the windows SAPi voices to read.
 
     - Make sure you have `Microsoft Eva Mobile` SAPI voice becuz it will be mentioned within the Section: 1 of the script as Requirement.
